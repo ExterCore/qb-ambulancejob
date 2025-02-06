@@ -4,7 +4,7 @@ game 'gta5'
 author 'sobing4413'
 
 description 'Death Screen customized Nopixel 4.0'
-version '1.0'
+version '1.1'
 
 shared_scripts {
 	'@qb-core/shared/locale.lua',
